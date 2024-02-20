@@ -1,2 +1,2 @@
-# CMPS-3350---lab05
-CMPS 3350 project with anikan
+# CMPS-3350-Lab05
+CMPS 3350 project - psyduck and anakin
