@@ -5,6 +5,8 @@
 
 using namespace std;
 
+/* this will all be javascript RIP*/
+
 unordered_map<string, string> dictionary;
 
 void displayAsciiArt()
