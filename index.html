@@ -3,22 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eng2Span</title>
+    <title>Spanglish</title>
     <link rel="stylesheet" href="./style.css"/>
 </head>
 <body>
     <div>
     
 
-    <h1>English to Spanish Translator</h1>
-
-    <h2>Enter a english word, phrase or sentence</h2>
+    <h1>Welcome to Spanglish</h1>
+    
+    <h2>The English to Spanish Translator</h2>
 
     <p>(some words may <span>not</span> be included)</p>
+    <p>(<span>no</span> punctuation)</p>
     
     
-    <input placeholder="English" class="english-input"/>
-    <p class="spanish-output"> empty</p>
+    <textarea type="text" id="sentenceInput" placeholder="Enter a english word, phrase or sentencee"></textarea>
+    
+
+    
+    <button id="translateSentence">Translate Sentence</button>
+    
+    
+    <div id="translationOutput"></div>
      
 </div>
    <nav> <a href="about.html">about</a></nav>
