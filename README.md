@@ -1,9 +1,5 @@
 # Cade and Everardo's English-to-Spanish Translator
 
-<p align="center">
-   <img src="https://giphy.com/gifs/AmericanDadTBS-season-17-american-dad-smiths-J2S6Eergkn2xauHFc3" />
-</p>
-
 This repository contains a very simple and barebones version of an English-to-Spanish translator using JavaScript, HTML, and CSS.
 
 ### Notes
@@ -13,6 +9,4 @@ This repository contains a very simple and barebones version of an English-to-Sp
 
 ### Dependencies
 Nothing is required of you to execute/run this project.
-Simply visit:
-  `https://cs.csub.edu/~candersen/)` or
-  `https://www.cs.csub.edu/~eroblestena/3350/lab05/`
+Simply visit: `https://cs.csub.edu/~candersen/)` or `https://www.cs.csub.edu/~eroblestena/3350/lab05/`
