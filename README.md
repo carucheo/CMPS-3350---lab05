@@ -1,7 +1,7 @@
 # Cade and Everardo's English-to-Spanish Translator
 
 <p align="center">
-   <iframe src="https://giphy.com/embed/J2S6Eergkn2xauHFc3" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/AmericanDadTBS-season-17-american-dad-smiths-J2S6Eergkn2xauHFc3">via GIPHY</a></p>
+   <img src="https://giphy.com/gifs/AmericanDadTBS-season-17-american-dad-smiths-J2S6Eergkn2xauHFc3" />
 </p>
 
 This repository contains a very simple and barebones version of an English-to-Spanish translator using JavaScript, HTML, and CSS.
